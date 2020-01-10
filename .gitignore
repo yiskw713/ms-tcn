@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+.DS_Store
+*.pth
+dataset
+events.out.tfevents.*
+./dataset

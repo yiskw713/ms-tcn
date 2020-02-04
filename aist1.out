@@ -1,0 +1,289 @@
+nohup: ignoring input
+Dataset: breakfast	Split: 1
+Batch Size: 1	Num in channels: 2048	Num Workers: 4
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+Adam will be used as an optimizer.
+
+---------------------------Start training---------------------------
+
+epoch: 0	lr: 0.0005	train_time: 2.8min	train loss: 3.7671
+epoch: 1	lr: 0.0005	train_time: 0.8min	train loss: 3.6745
+epoch: 2	lr: 0.0005	train_time: 0.9min	train loss: 3.4685
+epoch: 3	lr: 0.0005	train_time: 0.9min	train loss: 3.2003
+epoch: 4	lr: 0.0005	train_time: 0.9min	train loss: 3.0224
+epoch: 5	lr: 0.0005	train_time: 0.9min	train loss: 2.8931
+epoch: 6	lr: 0.0005	train_time: 1.0min	train loss: 2.7792
+epoch: 7	lr: 0.0005	train_time: 1.0min	train loss: 2.6490
+epoch: 8	lr: 0.0005	train_time: 1.0min	train loss: 2.5439
+epoch: 9	lr: 0.0005	train_time: 1.0min	train loss: 2.4365
+epoch: 10	lr: 0.0005	train_time: 1.0min	train loss: 2.3388
+epoch: 11	lr: 0.0005	train_time: 1.0min	train loss: 2.2675
+epoch: 12	lr: 0.0005	train_time: 1.0min	train loss: 2.1934
+epoch: 13	lr: 0.0005	train_time: 1.0min	train loss: 2.1366
+epoch: 14	lr: 0.0005	train_time: 1.0min	train loss: 2.0795
+epoch: 15	lr: 0.0005	train_time: 1.1min	train loss: 2.0074
+epoch: 16	lr: 0.0005	train_time: 1.1min	train loss: 1.9542
+epoch: 17	lr: 0.0005	train_time: 1.1min	train loss: 1.9094
+epoch: 18	lr: 0.0005	train_time: 0.9min	train loss: 1.8538
+epoch: 19	lr: 0.0005	train_time: 0.9min	train loss: 1.8027
+epoch: 20	lr: 0.0005	train_time: 0.9min	train loss: 1.7564
+epoch: 21	lr: 0.0005	train_time: 0.9min	train loss: 1.6871
+epoch: 22	lr: 0.0005	train_time: 0.9min	train loss: 1.6584
+epoch: 23	lr: 0.0005	train_time: 0.8min	train loss: 1.6222
+epoch: 24	lr: 0.0005	train_time: 0.7min	train loss: 1.5823
+epoch: 25	lr: 0.0005	train_time: 0.7min	train loss: 1.5550
+epoch: 26	lr: 0.0005	train_time: 0.7min	train loss: 1.5248
+epoch: 27	lr: 0.0005	train_time: 0.7min	train loss: 1.5000
+epoch: 28	lr: 0.0005	train_time: 0.7min	train loss: 1.4617
+epoch: 29	lr: 0.0005	train_time: 0.7min	train loss: 1.4270
+epoch: 30	lr: 0.0005	train_time: 0.7min	train loss: 1.4006
+epoch: 31	lr: 0.0005	train_time: 0.8min	train loss: 1.3915
+epoch: 32	lr: 0.0005	train_time: 0.7min	train loss: 1.3417
+epoch: 33	lr: 0.0005	train_time: 0.7min	train loss: 1.3313
+epoch: 34	lr: 0.0005	train_time: 0.7min	train loss: 1.3004
+epoch: 35	lr: 0.0005	train_time: 0.7min	train loss: 1.2928
+epoch: 36	lr: 0.0005	train_time: 0.7min	train loss: 1.2569
+epoch: 37	lr: 0.0005	train_time: 0.7min	train loss: 1.2414
+epoch: 38	lr: 0.0005	train_time: 0.7min	train loss: 1.2167
+epoch: 39	lr: 0.0005	train_time: 0.7min	train loss: 1.2148
+epoch: 40	lr: 0.0005	train_time: 0.8min	train loss: 1.1929
+epoch: 41	lr: 0.0005	train_time: 0.7min	train loss: 1.1590
+epoch: 42	lr: 0.0005	train_time: 0.8min	train loss: 1.1615
+epoch: 43	lr: 0.0005	train_time: 0.7min	train loss: 1.1247
+epoch: 44	lr: 0.0005	train_time: 0.7min	train loss: 1.1233
+epoch: 45	lr: 0.0005	train_time: 0.7min	train loss: 1.1035
+epoch: 46	lr: 0.0005	train_time: 0.7min	train loss: 1.1015
+epoch: 47	lr: 0.0005	train_time: 0.7min	train loss: 1.0776
+epoch: 48	lr: 0.0005	train_time: 0.7min	train loss: 1.0616
+epoch: 49	lr: 0.0005	train_time: 0.7min	train loss: 1.0501
+Done!
+
+Dataset: breakfast	Split: 2
+Batch Size: 1	Num in channels: 2048	Num Workers: 4
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+Adam will be used as an optimizer.
+
+---------------------------Start training---------------------------
+
+epoch: 0	lr: 0.0005	train_time: 2.6min	train loss: 3.7707
+epoch: 1	lr: 0.0005	train_time: 0.6min	train loss: 3.6851
+epoch: 2	lr: 0.0005	train_time: 0.6min	train loss: 3.3524
+epoch: 3	lr: 0.0005	train_time: 0.6min	train loss: 3.0716
+epoch: 4	lr: 0.0005	train_time: 0.6min	train loss: 2.8598
+epoch: 5	lr: 0.0005	train_time: 0.6min	train loss: 2.6761
+epoch: 6	lr: 0.0005	train_time: 0.6min	train loss: 2.5376
+epoch: 7	lr: 0.0005	train_time: 0.6min	train loss: 2.4134
+epoch: 8	lr: 0.0005	train_time: 0.6min	train loss: 2.3004
+epoch: 9	lr: 0.0005	train_time: 0.6min	train loss: 2.2112
+epoch: 10	lr: 0.0005	train_time: 0.6min	train loss: 2.1022
+epoch: 11	lr: 0.0005	train_time: 0.6min	train loss: 2.0106
+epoch: 12	lr: 0.0005	train_time: 0.6min	train loss: 1.9154
+epoch: 13	lr: 0.0005	train_time: 0.6min	train loss: 1.8348
+epoch: 14	lr: 0.0005	train_time: 0.6min	train loss: 1.7417
+epoch: 15	lr: 0.0005	train_time: 0.6min	train loss: 1.6776
+epoch: 16	lr: 0.0005	train_time: 0.6min	train loss: 1.6034
+epoch: 17	lr: 0.0005	train_time: 0.6min	train loss: 1.5436
+epoch: 18	lr: 0.0005	train_time: 0.6min	train loss: 1.5025
+epoch: 19	lr: 0.0005	train_time: 0.6min	train loss: 1.4380
+epoch: 20	lr: 0.0005	train_time: 0.6min	train loss: 1.3889
+epoch: 21	lr: 0.0005	train_time: 0.6min	train loss: 1.3546
+epoch: 22	lr: 0.0005	train_time: 0.6min	train loss: 1.2974
+epoch: 23	lr: 0.0005	train_time: 0.6min	train loss: 1.2731
+epoch: 24	lr: 0.0005	train_time: 0.6min	train loss: 1.2036
+epoch: 25	lr: 0.0005	train_time: 0.6min	train loss: 1.1738
+epoch: 26	lr: 0.0005	train_time: 0.6min	train loss: 1.1583
+epoch: 27	lr: 0.0005	train_time: 0.6min	train loss: 1.1314
+epoch: 28	lr: 0.0005	train_time: 0.6min	train loss: 1.0831
+epoch: 29	lr: 0.0005	train_time: 0.6min	train loss: 1.0617
+epoch: 30	lr: 0.0005	train_time: 0.6min	train loss: 1.0383
+epoch: 31	lr: 0.0005	train_time: 0.6min	train loss: 1.0022
+epoch: 32	lr: 0.0005	train_time: 0.6min	train loss: 0.9777
+epoch: 33	lr: 0.0005	train_time: 0.6min	train loss: 0.9522
+epoch: 34	lr: 0.0005	train_time: 0.6min	train loss: 0.9377
+epoch: 35	lr: 0.0005	train_time: 0.6min	train loss: 0.9278
+epoch: 36	lr: 0.0005	train_time: 0.6min	train loss: 0.8977
+epoch: 37	lr: 0.0005	train_time: 0.6min	train loss: 0.8794
+epoch: 38	lr: 0.0005	train_time: 0.6min	train loss: 0.8716
+epoch: 39	lr: 0.0005	train_time: 0.6min	train loss: 0.8578
+epoch: 40	lr: 0.0005	train_time: 0.6min	train loss: 0.8188
+epoch: 41	lr: 0.0005	train_time: 0.6min	train loss: 0.7892
+epoch: 42	lr: 0.0005	train_time: 0.6min	train loss: 0.8274
+epoch: 43	lr: 0.0005	train_time: 0.6min	train loss: 0.7636
+epoch: 44	lr: 0.0005	train_time: 0.6min	train loss: 0.7395
+epoch: 45	lr: 0.0005	train_time: 0.6min	train loss: 0.7825
+epoch: 46	lr: 0.0005	train_time: 0.6min	train loss: 0.7093
+epoch: 47	lr: 0.0005	train_time: 0.6min	train loss: 0.7450
+epoch: 48	lr: 0.0005	train_time: 0.6min	train loss: 0.7015
+epoch: 49	lr: 0.0005	train_time: 0.6min	train loss: 0.7182
+Done!
+
+Dataset: breakfast	Split: 3
+Batch Size: 1	Num in channels: 2048	Num Workers: 4
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+Adam will be used as an optimizer.
+
+---------------------------Start training---------------------------
+
+epoch: 0	lr: 0.0005	train_time: 2.6min	train loss: 3.7670
+epoch: 1	lr: 0.0005	train_time: 0.7min	train loss: 3.6572
+epoch: 2	lr: 0.0005	train_time: 0.7min	train loss: 3.3975
+epoch: 3	lr: 0.0005	train_time: 0.6min	train loss: 3.2201
+epoch: 4	lr: 0.0005	train_time: 0.6min	train loss: 2.9989
+epoch: 5	lr: 0.0005	train_time: 0.6min	train loss: 2.8010
+epoch: 6	lr: 0.0005	train_time: 0.6min	train loss: 2.6689
+epoch: 7	lr: 0.0005	train_time: 0.6min	train loss: 2.5571
+epoch: 8	lr: 0.0005	train_time: 0.6min	train loss: 2.4603
+epoch: 9	lr: 0.0005	train_time: 0.6min	train loss: 2.3811
+epoch: 10	lr: 0.0005	train_time: 0.6min	train loss: 2.3159
+epoch: 11	lr: 0.0005	train_time: 0.6min	train loss: 2.2448
+epoch: 12	lr: 0.0005	train_time: 0.7min	train loss: 2.1919
+epoch: 13	lr: 0.0005	train_time: 0.6min	train loss: 2.1258
+epoch: 14	lr: 0.0005	train_time: 0.6min	train loss: 2.1412
+epoch: 15	lr: 0.0005	train_time: 0.6min	train loss: 2.0433
+epoch: 16	lr: 0.0005	train_time: 0.6min	train loss: 1.9916
+epoch: 17	lr: 0.0005	train_time: 0.6min	train loss: 1.9433
+epoch: 18	lr: 0.0005	train_time: 0.6min	train loss: 1.8977
+epoch: 19	lr: 0.0005	train_time: 0.6min	train loss: 1.8393
+epoch: 20	lr: 0.0005	train_time: 0.7min	train loss: 1.8008
+epoch: 21	lr: 0.0005	train_time: 0.6min	train loss: 1.7671
+epoch: 22	lr: 0.0005	train_time: 0.6min	train loss: 1.7107
+epoch: 23	lr: 0.0005	train_time: 0.6min	train loss: 1.6816
+epoch: 24	lr: 0.0005	train_time: 0.6min	train loss: 1.6799
+epoch: 25	lr: 0.0005	train_time: 0.6min	train loss: 1.6289
+epoch: 26	lr: 0.0005	train_time: 0.6min	train loss: 1.5814
+epoch: 27	lr: 0.0005	train_time: 0.6min	train loss: 1.5452
+epoch: 28	lr: 0.0005	train_time: 0.6min	train loss: 1.5269
+epoch: 29	lr: 0.0005	train_time: 0.6min	train loss: 1.4900
+epoch: 30	lr: 0.0005	train_time: 0.6min	train loss: 1.4431
+epoch: 31	lr: 0.0005	train_time: 0.6min	train loss: 1.4254
+epoch: 32	lr: 0.0005	train_time: 0.6min	train loss: 1.4141
+epoch: 33	lr: 0.0005	train_time: 0.6min	train loss: 1.3763
+epoch: 34	lr: 0.0005	train_time: 0.6min	train loss: 1.3584
+epoch: 35	lr: 0.0005	train_time: 0.6min	train loss: 1.3310
+epoch: 36	lr: 0.0005	train_time: 0.6min	train loss: 1.3143
+epoch: 37	lr: 0.0005	train_time: 0.6min	train loss: 1.2914
+epoch: 38	lr: 0.0005	train_time: 0.6min	train loss: 1.2696
+epoch: 39	lr: 0.0005	train_time: 0.6min	train loss: 1.2489
+epoch: 40	lr: 0.0005	train_time: 0.6min	train loss: 1.2318
+epoch: 41	lr: 0.0005	train_time: 0.6min	train loss: 1.2079
+epoch: 42	lr: 0.0005	train_time: 0.6min	train loss: 1.2065
+epoch: 43	lr: 0.0005	train_time: 0.6min	train loss: 1.1705
+epoch: 44	lr: 0.0005	train_time: 0.6min	train loss: 1.1593
+epoch: 45	lr: 0.0005	train_time: 0.6min	train loss: 1.1611
+epoch: 46	lr: 0.0005	train_time: 0.6min	train loss: 1.1258
+epoch: 47	lr: 0.0005	train_time: 0.7min	train loss: 1.1213
+epoch: 48	lr: 0.0005	train_time: 0.6min	train loss: 1.1006
+epoch: 49	lr: 0.0005	train_time: 0.6min	train loss: 1.1051
+Done!
+
+Dataset: breakfast	Split: 4
+Batch Size: 1	Num in channels: 2048	Num Workers: 4
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+Adam will be used as an optimizer.
+
+---------------------------Start training---------------------------
+
+epoch: 0	lr: 0.0005	train_time: 2.5min	train loss: 3.7597
+epoch: 1	lr: 0.0005	train_time: 0.6min	train loss: 3.6938
+epoch: 2	lr: 0.0005	train_time: 0.6min	train loss: 3.5088
+epoch: 3	lr: 0.0005	train_time: 0.6min	train loss: 3.2825
+epoch: 4	lr: 0.0005	train_time: 0.6min	train loss: 3.0600
+epoch: 5	lr: 0.0005	train_time: 0.6min	train loss: 2.8620
+epoch: 6	lr: 0.0005	train_time: 0.6min	train loss: 2.7280
+epoch: 7	lr: 0.0005	train_time: 0.6min	train loss: 2.6202
+epoch: 8	lr: 0.0005	train_time: 0.6min	train loss: 2.5236
+epoch: 9	lr: 0.0005	train_time: 0.6min	train loss: 2.4245
+epoch: 10	lr: 0.0005	train_time: 0.6min	train loss: 2.3459
+epoch: 11	lr: 0.0005	train_time: 0.6min	train loss: 2.2766
+epoch: 12	lr: 0.0005	train_time: 0.6min	train loss: 2.1983
+epoch: 13	lr: 0.0005	train_time: 0.6min	train loss: 2.1383
+epoch: 14	lr: 0.0005	train_time: 0.6min	train loss: 2.0646
+epoch: 15	lr: 0.0005	train_time: 0.6min	train loss: 1.9988
+epoch: 16	lr: 0.0005	train_time: 0.6min	train loss: 1.9288
+epoch: 17	lr: 0.0005	train_time: 0.6min	train loss: 1.8672
+epoch: 18	lr: 0.0005	train_time: 0.6min	train loss: 1.8295
+epoch: 19	lr: 0.0005	train_time: 0.6min	train loss: 1.7595
+epoch: 20	lr: 0.0005	train_time: 0.6min	train loss: 1.7045
+epoch: 21	lr: 0.0005	train_time: 0.6min	train loss: 1.6506
+epoch: 22	lr: 0.0005	train_time: 0.6min	train loss: 1.6132
+epoch: 23	lr: 0.0005	train_time: 0.6min	train loss: 1.5638
+epoch: 24	lr: 0.0005	train_time: 0.6min	train loss: 1.5212
+epoch: 25	lr: 0.0005	train_time: 0.5min	train loss: 1.4813
+epoch: 26	lr: 0.0005	train_time: 0.6min	train loss: 1.4634
+epoch: 27	lr: 0.0005	train_time: 0.6min	train loss: 1.4019
+epoch: 28	lr: 0.0005	train_time: 0.6min	train loss: 1.3769
+epoch: 29	lr: 0.0005	train_time: 0.6min	train loss: 1.3292
+epoch: 30	lr: 0.0005	train_time: 0.5min	train loss: 1.3170
+epoch: 31	lr: 0.0005	train_time: 0.6min	train loss: 1.2705
+epoch: 32	lr: 0.0005	train_time: 0.6min	train loss: 1.2319
+epoch: 33	lr: 0.0005	train_time: 0.6min	train loss: 1.2151
+epoch: 34	lr: 0.0005	train_time: 0.6min	train loss: 1.1994
+epoch: 35	lr: 0.0005	train_time: 0.6min	train loss: 1.1451
+epoch: 36	lr: 0.0005	train_time: 0.6min	train loss: 1.1456
+epoch: 37	lr: 0.0005	train_time: 0.6min	train loss: 1.1304
+epoch: 38	lr: 0.0005	train_time: 0.6min	train loss: 1.0895
+epoch: 39	lr: 0.0005	train_time: 0.6min	train loss: 1.0914
+epoch: 40	lr: 0.0005	train_time: 0.6min	train loss: 1.0491
+epoch: 41	lr: 0.0005	train_time: 0.6min	train loss: 1.0218
+epoch: 42	lr: 0.0005	train_time: 0.6min	train loss: 1.0338
+epoch: 43	lr: 0.0005	train_time: 0.6min	train loss: 0.9931
+epoch: 44	lr: 0.0005	train_time: 0.6min	train loss: 0.9859
+epoch: 45	lr: 0.0005	train_time: 0.6min	train loss: 0.9680
+epoch: 46	lr: 0.0005	train_time: 0.6min	train loss: 0.9275
+epoch: 47	lr: 0.0005	train_time: 0.5min	train loss: 0.9322
+epoch: 48	lr: 0.0005	train_time: 0.6min	train loss: 0.9270
+epoch: 49	lr: 0.0005	train_time: 0.6min	train loss: 0.9074
+Done!
+
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+
+------------------------Start testing------------------------
+
+elapsed_time: 0.6min	acc: 31.11182	edit: 22.52374	f1s@[0.1, 0.25, 0.5]: [19.312007068551353, 15.035776359007524, 9.207687730677778]
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+
+------------------------Start testing------------------------
+
+elapsed_time: 0.8min	acc: 30.37764	edit: 22.27166	f1s@[0.1, 0.25, 0.5]: [17.97199049673312, 13.702501831860712, 7.918621888422614]
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+
+------------------------Start testing------------------------
+
+elapsed_time: 0.8min	acc: 31.22639	edit: 21.14906	f1s@[0.1, 0.25, 0.5]: [16.80383239937791, 12.336074418008753, 7.135748832407179]
+
+------------------------Loading Model------------------------
+
+Multi Stage TCN will be used as a model.
+stages: ['ed']	n_features: 64	n_layers of dilated TCN: 10	kernel_size of ED-TCN: 15
+
+------------------------Start testing------------------------
+
+elapsed_time: 0.9min	acc: 33.47579	edit: 22.70576	f1s@[0.1, 0.25, 0.5]: [20.316836815118858, 15.12223482020405, 8.949733353355153]

@@ -3,6 +3,7 @@ __pycache__
 .vscode
 .DS_Store
 *.pth
+*.prm
 dataset
 events.out.tfevents.*
 ./dataset
